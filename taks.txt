@@ -1,0 +1,6 @@
+onclick , onchange
+
+when press in same page it shows a error
+
+
+when press in time range  it shows a loading due to not change the days when it is same as previous one.
